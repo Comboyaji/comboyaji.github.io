@@ -1,13 +1,13 @@
 
 Package: com.cmbo.lotusextra
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Cmbo
 Filename: /LotusExtras.deb
-Size: 89230
-MD5sum: 169021fd95baeb47b54cf0635d2b725b
-SHA1: 1053a943c9a00992ee9f3ab5179fae3dd6feff83
-SHA256: 68694232dbfff0159a63987377968f7efaf0bfda894c30a524a03b30a68448c7
+Size: 72388
+MD5sum: a56cfa770faa885b576f3218455fe7a0
+SHA1: 27b3296a2397d5edcaba2f7c5acbd30fc9c4964d
+SHA256: 5e5ec5cb1e8192e6b7e2f9a838cf2beba8c7c96489b9596ed7d66c40a3eb03e4
 Section: Themes
 Description: Alts and Additions to the Lotus theme.
 Author: Cmbo
