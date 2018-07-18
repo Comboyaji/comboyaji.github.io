@@ -1,0 +1,14 @@
+Package: Fortune.deb
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: Cmbo <cooperjlov@gmail.com>
+Filename: debs//Fortune.deb
+Size: 13663842
+MD5sum: 892A79DCDAEA776DA32AFF42EC8D6204
+SHA1: 0C84E06AE6BD908BA4F9BC11B3F7419AF3BEC07E
+SHA256: E48CBA72C339D589139E5E95E6DB14DF535D76268C62E6714690BBE15A2C6061
+Section: Applications
+Description: An updated version of the 4chan viewer Fortune for iOS.
+Author: Cmbo <cooperjlov@gmail.com>
+Depiction: http://metalhead.github.io/depic/Fortune/index.html
+Name: Fortune 1.4.5

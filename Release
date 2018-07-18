@@ -1,0 +1,9 @@
+Origin: Metalhead Repo
+Label: Metalhead Repo
+Suite: stable
+Version: 1.0
+Codename: Metalhead
+Architectures: iphoneos-arm
+Components: main
+Description: Metalhead Repo
+MD5Sum:
