@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Cmbo <cooperjlov@gmail.com>
 Filename: debs//Fortune.deb
 Size: 13663842
-MD5sum: 892A79DCDAEA776DA32AFF42EC8D6204
-SHA1: 0C84E06AE6BD908BA4F9BC11B3F7419AF3BEC07E
-SHA256: E48CBA72C339D589139E5E95E6DB14DF535D76268C62E6714690BBE15A2C6061
+MD5sum: 892a79dcdaea776da32aff42ec8d6204
+SHA1: 0c84e06ae6bd908ba4f9bc11b3f7419af3bec07e
+SHA256: e48cba72c339d589139e5e95e6db14df535d76268c62e6714690bbe15a2c6061
 Section: Applications
 Description: An updated version of the 4chan viewer Fortune for iOS.
 Author: Cmbo <cooperjlov@gmail.com>
