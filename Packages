@@ -1,14 +1,14 @@
 
-Package: com.cmbo.fortune
-Version: 1.4.5
+Package: com.cmbo.lotusextra
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Cmbo <cooperjlov@gmail.com>
-Filename: /Fortune.deb
-Size: 13661890
-MD5sum: 36137ca655a1e208e92195c2125e4993
-SHA1: 78622b86e58eeee1c06a6affd6f7b65843c9dc0b
-SHA256: d8a604990cc66568152182b0a95518c1f05815416539a248c2b4079877636640
-Section: Applications
-Description: An updated version of the 4chan viewer Fortune for iOS.
-Author: Cmbo <cooperjlov@gmail.com>
-Name: Fortune
+Maintainer: Cmbo
+Filename: /LotusExtras.deb
+Size: 89230
+MD5sum: 169021fd95baeb47b54cf0635d2b725b
+SHA1: 1053a943c9a00992ee9f3ab5179fae3dd6feff83
+SHA256: 68694232dbfff0159a63987377968f7efaf0bfda894c30a524a03b30a68448c7
+Section: Themes
+Description: Alts and Additions to the Lotus theme.
+Author: Cmbo
+Name: Lotus Extras
