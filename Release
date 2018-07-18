@@ -1,9 +1,9 @@
-Origin: Metalhead Repo
-Label: Metalhead Repo
+Origin: Comboyaji Repo
+Label: Comboyaji Repo
 Suite: stable
 Version: 1.0
-Codename: Metalhead
+Codename: Comboyaji
 Architectures: iphoneos-arm
 Components: main
-Description: Metalhead Repo
+Description: Comboyaji Repo
 MD5Sum:
