@@ -1,9 +1,9 @@
-Origin: Comboyaji Repo
-Label: Comboyaji Repo
+Origin: CMBO Repo
+Label: CMBO Repo
 Suite: stable
 Version: 1.0
-Codename: Comboyaji
+Codename: CMBO
 Architectures: iphoneos-arm
 Components: main
-Description: Comboyaji Repo
+Description: CMBO Repo
 MD5Sum:
