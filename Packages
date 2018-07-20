@@ -12,3 +12,17 @@ Section: Themes
 Description: Alts and Additions to the Lotus theme.
 Author: Cmbo
 Name: Lotus Extras
+
+Package: com.cmbo.lotusextra
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Cmbo
+Filename: /LotusExtras.deb
+Size: 53442
+MD5sum: f42105aee8b8f5916aa9c8e00a11fb95
+SHA1: 1843d0ffafbe540546db6a53c8351d2333a7aef1
+SHA256: 7242e24d0e25d3bbae3bc98f3d43d80d72ba42dccc2552dbb0a9d673b858e804
+Section: Themes
+Description: Alts and Additions to the Lotus theme.
+Author: Cmbo
+Name: Lotus Extras
